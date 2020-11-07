@@ -1,6 +1,5 @@
 <script>
   import { Router, Link } from "svelte-routing";
-
   export let url = "";
 </script>
 
