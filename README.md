@@ -1,4 +1,4 @@
-# New Project
+# The Tractor Store - home mfe
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
